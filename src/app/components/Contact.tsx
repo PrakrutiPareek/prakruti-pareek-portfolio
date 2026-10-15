@@ -17,9 +17,8 @@ export default function Contact() {
           </h2>
 
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-[var(--muted)] md:text-xl">
-            I&apos;m open to junior frontend opportunities, internships and
-            projects where I can contribute, learn and continue growing as a
-            developer.
+            I&apos;m open to frontend opportunities, internships and projects
+            where I can contribute, learn and continue growing as a developer.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-3">
